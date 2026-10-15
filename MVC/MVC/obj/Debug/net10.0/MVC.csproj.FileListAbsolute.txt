@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\bin\Debug\net10.0\MVC.exe
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\bin\Debug\net10.0\MVC.deps.json
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\bin\Debug\net10.0\MVC.runtimeconfig.json
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\bin\Debug\net10.0\MVC.dll
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\bin\Debug\net10.0\MVC.pdb
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\MVC.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\MVC.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\MVC.dll
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\refint\MVC.dll
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\MVC.pdb
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\MVC.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\ref\MVC.dll
+C:\Users\ACER\Desktop\Папка по програмиране\MVC\MVC\obj\Debug\net10.0\MVC.csproj.Up2Date
